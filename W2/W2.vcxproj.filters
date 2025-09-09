@@ -18,5 +18,14 @@
     <ClCompile Include="hello.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="nums.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ascii.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Cypher.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
